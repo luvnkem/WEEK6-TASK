@@ -1,0 +1,21 @@
+body{
+    background-image:url(./photo-1514448120241-6c93b4c3591a.jpg);
+    background-repeat: repeat;
+    background-size: contain;
+}
+.profileImg{
+    border-radius: 50%;
+}
+#mainProfile{
+    display: grid;
+    place-content: center;
+}
+div{
+    background-color: rgb(137, 103, 192);
+}
+h2{
+    color: rgb(189, 225, 226);
+}
+h1{
+    color: rgb(226, 230, 247);
+}
